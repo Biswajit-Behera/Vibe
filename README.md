@@ -66,18 +66,6 @@ This will initalise a web server using Express hosting the web-app at http://loc
 The MongoDB connection in _./database.js_ has been omitted as indicated on line 20 by '_[OMITTED]_'. 
 Hence, no database connection will occur.
 
-# Preview Images
-
-Not final versions, will be cropped and updated
-
-## Homepage
-
-Placeholder -- images coming soon.
-
-## Tweets
-
-## Likes, comments, and retweets
-
 
 ### Replying on a tweet
 
