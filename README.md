@@ -67,21 +67,6 @@ The MongoDB connection in _./database.js_ has been omitted as indicated on line 
 Hence, no database connection will occur.
 
 
-### Replying on a tweet
-
-![image17](https://user-images.githubusercontent.com/10171446/153634971-ed36daf5-7e77-40c3-9627-eca7c175f38d.PNG)
-
-
-### Commenting on a tweet
-
-![image18](https://user-images.githubusercontent.com/10171446/153634817-44a23a12-f3c6-43fd-99d9-f7aad4c08eff.PNG)
-
-
-### Retweet
-
-![image19](https://user-images.githubusercontent.com/10171446/153635134-03a9e2e3-93c5-42ac-bf89-ff695d1c2843.PNG)
-
-
 ## Profile pages
 
 ### Home Page
